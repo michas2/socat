@@ -6,3 +6,4 @@ script:
   - autoconf
   - ./configure
   - make
+  - ./test.sh
